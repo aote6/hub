@@ -1,0 +1,8 @@
+{
+  "name": "节点管理",
+  "type": "interactive",
+  "entry": "main.py",
+  "desc": "管理所有节点（增删改查）",
+  "timeout": 60,
+  "added": "2026-04-06"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "备份推送",
+  "type": "task",
+  "entry": "main.py",
+  "desc": "备份整个 Hub 到 Git 仓库（自动提交推送）",
+  "timeout": 60,
+  "added": "2026-04-06"
+}

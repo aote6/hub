@@ -1,0 +1,8 @@
+{
+  "name": "中枢",
+  "type": "interactive",
+  "entry": "zhongqu.py",
+  "desc": "工具中枢 v2.7 — 个人工具管理器",
+  "version": "2.7",
+  "added": "2026-04-06"
+}
